@@ -24,7 +24,7 @@ uuid = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 version = "0.25.2"
 
 [[Helloworld]]
-path = ".."
+path = "/home/nobuta05/.julia/dev/Helloworld"
 uuid = "6de1a419-4ac9-46d8-b5e8-1146135d8078"
 version = "0.1.0"
 
