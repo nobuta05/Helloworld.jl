@@ -5,6 +5,7 @@ module Helloworld
   greet() -> nothing
 
 docstring of greet()
+ほげほげ
 """
 greet() = println("Hello World");
 
